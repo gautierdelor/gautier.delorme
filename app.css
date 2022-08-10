@@ -98,7 +98,7 @@ h4{
 
 button{
 
-	margin:200px;
+	margin:150px;
 
 	}
 
@@ -148,6 +148,20 @@ h6{
 	text-justify: inter-word;
 	margin-top:0px;
 	margin-left:15px;
+	margin-right:150px;
+	margin-bottom:15px;
+}
+
+
+
+.welcome{
+    font-size: 150%;
+	color: #FFFFFF ;
+	font-family: "Helvetica" ;
+	text-align: center ;
+	text-justify: inter-word;
+	margin-top:150px;
+	margin-left:150px;
 	margin-right:150px;
 	margin-bottom:15px;
 }
