@@ -20,6 +20,16 @@ p{
 	margin-right: 230px;
 	}
 
+.indic{
+	color: #FFFFFF ;
+	font-family: "Helvetica" ;
+	font-style: italic;
+	text-align: right ;
+	text-justify: inter-word;
+	margin-top:20px;
+	margin-right: 150px;
+	}
+
 h1{
     font-size: 150%;
 	color: #FFFFFF ;
@@ -166,3 +176,11 @@ h6{
 	margin-right:150px;
 	margin-bottom:15px;
 }
+
+.arrow:hover{opacity:0.5;fill:#CC432A;stroke:#000000;stroke-width:1;stroke-miterlimit:10;transition: fill 0,3s;}
+.arrow{stroke:#CC432A;}
+
+.distance{
+     font-style: italic;
+
+
